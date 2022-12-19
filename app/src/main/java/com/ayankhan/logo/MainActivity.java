@@ -79,5 +79,9 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+    public void turnanti(View view)
+    {
+        radian-=90;
+    }
 
 }
